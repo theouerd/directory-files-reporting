@@ -1,0 +1,29 @@
+{
+  "name": "directory-report-generator",
+  "version": "1.0.0",
+  "description": "A Node.js script to generate an Excel report of files in a specified directory",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "directory",
+    "report",
+    "generator",
+    "Node.js"
+  ],
+  "author": "theouerd",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "dotenv": "^16.0.3",
+    "fs-extra": "^10.0.0",
+    "xlsx": "^0.17.5"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.1",
+    "jest": "^29.5.0",
+    "ts-jest": "^29.1.0"
+  }
+}
