@@ -1,5 +1,3 @@
-A `README.md` file is a markdown file that provides an overview of the project, its purpose, how to use it, and any other relevant information. Below is an example `README.md` file for the Directory Files Reporting project:
-
 ```
 # Directory Files Reporting
 
