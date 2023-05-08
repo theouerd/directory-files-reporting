@@ -1,7 +1,7 @@
-A `README.md` file is a markdown file that provides an overview of the project, its purpose, how to use it, and any other relevant information. Below is an example `README.md` file for the Directory Report Generator project:
+A `README.md` file is a markdown file that provides an overview of the project, its purpose, how to use it, and any other relevant information. Below is an example `README.md` file for the Directory Files Reporting project:
 
 ```
-# Directory Report Generator
+# Directory Files Reporting
 
 A Node.js script to generate an Excel report of files in a specified directory. The script creates separate sheets for each file extension type and a summary sheet with general details about the directory.
 
@@ -53,7 +53,3 @@ The script will analyze the specified directory and generate a report in the `re
 ## License
 
 This project is licensed under the MIT License.
-
-```
-
-Create a new file named `README.md` in the root of your project and paste the above content into it. You can modify the file as needed to add more details or update the existing content.
